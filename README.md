@@ -6,3 +6,9 @@ Research Questions
 
 * How does the number of features influence the identification of clear clusters using SOM?
 * Can SOM effectively identify clusters in real-world M2C data that represent both standard and non-standard/suspicious behavior?
+
+There are three experements were made that can be explored using Jupyther notebook:
+* XS_setting.ipynb
+* M_setting.ipynb
+* L_setting.ipynb
+
