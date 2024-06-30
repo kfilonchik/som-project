@@ -1,7 +1,5 @@
 # Self-Organizing Maps for Process Mining in the Energy Sector
 
-Overview
-
 This repository contains the implementation of Self-Organizing Maps (SOM) for clustering process flows within the Meter-to-Cash (M2C) process of an energy company. The goal is to identify non-standard and problematic cases by preprocessing event log data from an SAP system and analyzing the results through SOM.
 
 Research Questions
